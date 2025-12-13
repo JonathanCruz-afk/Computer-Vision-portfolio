@@ -29,3 +29,32 @@ through the AI & Robotics program and hopefully it shows the hardwork and dedica
 - GitHub: github.com/JonathanCruz-afk
 
 
+Jonathan-Cruz-AI-Portfolio/
+├── README.md
+│   # Overview of your AI coursework, skills, and projects
+│
+├── ComputerVision-ITAI1378/
+│   ├── README.md
+│   │   # Course description, tools used, and learning outcomes
+│
+│   ├── Lab01-RealWorld-ComputerVision/
+│   │   ├── README.md
+│   │   │   # Summary of facial recognition concepts & reflection
+│   │   └── L01_Jonathan_Cruz_ITAI1378.docx
+│
+│   ├── Lab02-Image-Processing/
+│   │   ├── README.md
+│   │   │   # Description of convolution, filters, and transformations
+│   │   ├── L02_Cruz_Jonathan_ITAI1378.ipynb
+│   │   └── results/
+│   │       ├── output_images/
+│   │       └── notes.txt
+│
+│   └── Journal02-Reflection/
+│       ├── README.md
+│       │   # Key takeaways and learning reflections
+│       └── J02_Cruz_Jonathan_ITAI1378.pdf.docx
+│
+└── assets/
+    └── images/
+        └── portfolio_preview.png
